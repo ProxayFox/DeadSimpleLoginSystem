@@ -1,5 +1,5 @@
-# Form 2.0 ==>  PHP and PGP experiment
-The aim is to be able to store private keys on the clients device and store the public key on the server to ensure the server doesn't have the private key stored anywhere
+# Dead Simple Login System
+This system users PHP, jQuery, Bootstrap, SQL
 
 ## Instructions
 You will need to create a DB config file in and as <br>
@@ -18,6 +18,5 @@ DB::$encoding = 'latin1';
 ```
 And run the SQL file in `sql/form.sql`
 
-## Start 13/02/2020
-I don't know what to add here but we'll see how this goes
-It's been about a year or two since I last coded so I'm expecting this to be really bad for a while
+## Start 14/02/2020
+This is part replica of progress made in the Forum2.0 just so i can come back to if need be
